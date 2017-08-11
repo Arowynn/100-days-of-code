@@ -1,30 +1,100 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: July 19, 2017 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: FreeCodeCamp.org challenges HTML / CSS
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** It is 8/11/17 and I forgot to create the log. I'm using my posts in Twitter and Facebook to record my progress here. I'm a little bummed because I feel like this log / journal is a great idea and is really helpful if done properly. I remember being really excited about starting the challenge
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link to work:** N/A
 
 
-### Day 1: June 27, Monday
+### Day 2: July 20, 2017
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Freecodecamp.org HTML / CSS
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts**: 
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link(s) to work**: N/A
+
+
+### Day 3: July 21, 2017
+
+**Today's Progress**: HTML / CSS 
+
+**Thoughts** I know I'm in the right place when my study material references THUNDERCATS! Hooooooooooo!
+
+**Link(s) to work**:  N/A
+
+
+### Day 4: July 22, 2017
+
+**Today's Progress**: Bootstrap with FCC.org
+
+**Thoughts** More challenges done! I don't like how I am understanding the challenge but still not understanding some of the code that is already in the editor when the challenge starts
+
+**Link(s) to work**:  N/A
+
+
+### Day 5: July 29, 2017
+
+**Today's Progress**: I've started a Tribute page for Selena
+
+**Thoughts** I feel a bit unprepared to start a project like this one. I remember the challenges but I don't know where to start! I'm using code from other Codepen pages as a template
+
+**Link(s) to work**:  https://codepen.io/Arowynn/pen/GvoWNa
+
+
+### Day 6: July 30, 2017
+
+**Today's Progress**: Tribute page done! 
+
+**Thoughts** A ton of trial and error and looking at other code to make sense of it.
+
+**Link(s) to work**:  https://codepen.io/Arowynn/pen/GvoWNa
+
+
+### Day 7: August 1, 2017
+
+**Today's Progress**: Portfolio codepen has been started! 
+
+**Thoughts** Again, I'm researching other ports in codepen for ideas and for how they start their code in the HTML pen. I want this to be perfect and I fear I will spend way more time than I should on it.
+
+**Link(s) to work**:  N/A
+
+
+
+### Day 8: August 8, 2017
+
+**Today's Progress**: HTML Fundementals with CodeCademy
+
+**Thoughts** I've been overwhelmed with the idea of the portfolio and am a bit frustrated, hense the week long gap!!! I did spend time researching but not much time coding during that week. I'm going through FreeCodeCamp material to review but it's not sticking so I started with CodeCademy and I love it!!!
+
+**Link(s) to work**:  N/A
+
+
+### Day 9: August 9, 2017
+
+**Today's Progress**: HTML Content w/Codecademy
+
+**Thoughts** I'm loving this learning platform. It's much easier to retain what I'm learning. Headings, paragraphs, links and pictures
+
+**Link(s) to work**:  N/A
+
+
+### Day 10: August 10, 2017
+
+**Today's Progress**: CSS fundementals
+
+**Thoughts** Turning pictures into hyperlinks, commenting. I like how I am required to type line by line before the system will allow me to move on to the next step of the challenge.
+
+**Link(s) to work**:  N/A
+
+
+### Day : , 2017
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**:  
