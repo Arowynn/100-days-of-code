@@ -91,6 +91,15 @@
 **Link(s) to work**:  N/A
 
 
+### Day 11: August 15, 2017
+
+**Today's Progress**: CSS Fundementals
+
+**Thoughts** This was mostly a review for me. I am stuck in "research" mode and I don't make a ton of progress ACTUALLY coding :( It's hard for me to continue if I feel like I do not have a whole-picture understanding of what I'm coding. Need to get over it and just practice the lines of code. I do love Codecademy.
+
+**Link(s) to work**:  Codecademy
+
+<!--
 ### Day : , 2017
 
 **Today's Progress**: 
@@ -98,3 +107,4 @@
 **Thoughts** 
 
 **Link(s) to work**:  
+-->
