@@ -99,6 +99,15 @@
 
 **Link(s) to work**:  Codecademy
 
+
+### Day 12: August 16, 2017
+
+**Today's Progress**: CSS Structure and syntax AND completed 5 tasks from the Udemy course: Web Developer Bootcamp
+
+**Thoughts** CSS makes sense and is still revie for me. I think I'm afraid of powering through material and forgetting what I learned. I'm taking notes in Google docs to use as a reference for when I'm working on projects. I'm SO excited to start coding with the new boot camp I signed up for. The first few tasks are orientation. 
+
+**Link(s) to work**: <a href="https://www.udemy.com/the-web-developer-bootcamp/" target="_blank">Udemy Boot Camp Link</a>
+
 <!--
 ### Day : , 2017
 
