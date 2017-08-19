@@ -108,6 +108,16 @@
 
 **Link(s) to work**: <a href="https://www.udemy.com/the-web-developer-bootcamp/" target="_blank">Udemy Boot Camp Link</a>
 
+
+### Day 13: August 18, 2017
+
+**Today's Progress**: Udemy Web Developer Bootcamp! Got another 5 tasks done. Total: 10
+
+**Thoughts** I.LOVE.IT --- I've getting oriented and didn't get through to where I started writing code yet. I had 30 min today.
+
+**Link(s) to work**:  N/A
+
+
 <!--
 ### Day : , 2017
 
