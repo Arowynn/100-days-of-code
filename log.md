@@ -117,6 +117,23 @@
 
 **Link(s) to work**:  N/A
 
+### Day 14: August 23, 2017
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**:  
+
+
+### Day 15: August 24, 2017
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**:  <a href="file:///C:/Users/natal_000/Desktop/ListAssignment.html" target="_blank">Things I've Learned Assignment</a>
+
 
 <!--
 ### Day : , 2017
