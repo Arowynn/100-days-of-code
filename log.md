@@ -118,7 +118,7 @@
 **Link(s) to work**:  N/A
 
 
-### Day 14: August 23, 2017
+### Day 14: August 22, 2017
 
 **Today's Progress**: Lectures 11-15 - Modzilla Developer Network
 
@@ -127,13 +127,22 @@
 **Link(s) to work**:  N/A
 
 
-### Day 15: August 24, 2017
+### Day 15: August 23, 2017
 
 **Today's Progress**: Lectures 16-20 - Lists, bold, italicized text
 
 **Thoughts**: Did my first official assignment in the course! Because it was mostly review for me, I completed it in about 3-4 minutes. The hotkeys helped as well!
 
 **Link(s) to work**:  <a href="https://codepen.io/Arowynn/pen/PKepLE" target="_blank">Things I've Learned Assignment</a>
+
+
+### Day 16: August 24, 2017
+
+**Today's Progress**: Lectures 21-24, elements vs. attributes, < div > < span > < href > < src >
+
+**Thoughts** I built my first web page. Completed my bare bones page in less than 5 minutes. Everything is solidifying for me and I get even more excited! I am made for this!
+
+**Link(s) to work**:  <a href="https://codepen.io/Arowynn/pen/VzBWbX" target="_blank">Web Page Assignment</a>
 
 
 <!--
