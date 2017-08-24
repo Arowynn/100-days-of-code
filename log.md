@@ -42,7 +42,7 @@
 
 **Thoughts** I feel a bit unprepared to start a project like this one. I remember the challenges but I don't know where to start! I'm using code from other Codepen pages as a template
 
-**Link(s) to work**:  https://codepen.io/Arowynn/pen/GvoWNa
+**Link(s) to work**:  <a href="https://codepen.io/Arowynn/pen/GvoWNa" target="_blank">Selena Tribute</a>
 
 
 ### Day 6: July 30, 2017
@@ -51,7 +51,7 @@
 
 **Thoughts** A ton of trial and error and looking at other code to make sense of it.
 
-**Link(s) to work**:  https://codepen.io/Arowynn/pen/GvoWNa
+**Link(s) to work**:  <a href="https://codepen.io/Arowynn/pen/GvoWNa" target="_blank">Selena Tribute</a>
 
 
 ### Day 7: August 1, 2017
@@ -117,22 +117,23 @@
 
 **Link(s) to work**:  N/A
 
+
 ### Day 14: August 23, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Lectures 11-15 - Modzilla Developer Network
 
-**Thoughts** 
+**Thoughts**: He is teaching hot key commands that are SUPER helpful. I didn't know about the MDN which seems to really be a helpful resource.
 
-**Link(s) to work**:  
+**Link(s) to work**:  N/A
 
 
 ### Day 15: August 24, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Lectures 16-20 - Lists, bold, italicized text
 
-**Thoughts** 
+**Thoughts**: Did my first official assignment in the course! Because it was mostly review for me, I completed it in about 3-4 minutes. The hotkeys helped as well!
 
-**Link(s) to work**:  <a href="file:///C:/Users/natal_000/Desktop/ListAssignment.html" target="_blank">Things I've Learned Assignment</a>
+**Link(s) to work**:  <a href="https://codepen.io/Arowynn/pen/PKepLE" target="_blank">Things I've Learned Assignment</a>
 
 
 <!--
