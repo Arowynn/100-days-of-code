@@ -145,6 +145,14 @@
 **Link(s) to work**:  <a href="https://codepen.io/Arowynn/pen/VzBWbX" target="_blank">Web Page Assignment</a>
 
 
+### Day 17: August 25, 2017
+
+**Today's Progress**: < table >
+
+**Thoughts** 
+
+**Link(s) to work**:
+
 <!--
 ### Day : , 2017
 
