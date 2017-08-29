@@ -147,11 +147,21 @@
 
 ### Day 17: August 25, 2017
 
-**Today's Progress**: < table >
+**Today's Progress**: Lectures 25-26, < table >
 
-**Thoughts** 
+**Thoughts** This is the begining of the Intermediate HTML section. I've started making a Google Doc with tags and hotkeys to reference in the future and to also help reinforce what I just learned. 
 
-**Link(s) to work**:
+**Link(s) to work**: N/A
+
+
+### Day 18: August 28, 2017
+
+**Today's Progress**: Lectures 27-28, Create a table assignment
+
+**Thoughts** This assignment was a little more challenging. Using some styling in html instead of css brought back some memories from the good 'ol days when all styling was done in-line :) 
+
+**Link(s) to work**: <a href="https://codepen.io/Arowynn/full/brmLpB/" target="_blank">Pokemon Table Assignment</a>
+
 
 <!--
 ### Day : , 2017
