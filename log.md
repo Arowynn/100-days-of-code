@@ -163,6 +163,14 @@
 **Link(s) to work**: <a href="https://codepen.io/Arowynn/full/brmLpB/" target="_blank">Pokemon Table Assignment</a>
 
 
+### Day 19: September 6, 2017
+
+**Today's Progress**: Lectures 29-32, Forms, Inputs, Form Tags, Labels
+
+**Thoughts** This stretch of material is all learning and no pracicing right now. To help it stick in my head, I'm creating my own library in Google Docs to reference while working on projects (if needed)
+
+**Link(s) to work**:  N/A
+
 <!--
 ### Day : , 2017
 
