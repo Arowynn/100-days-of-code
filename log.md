@@ -165,11 +165,14 @@
 
 ### Day 19: September 6, 2017
 
-**Today's Progress**: Lectures 29-32, Forms, Inputs, Form Tags, Labels
+**Today's Progress**: Lectures 29-37, Forms, Inputs, Form Tags, Labels; Create a form assignment
 
-**Thoughts** This stretch of material is all learning and no pracicing right now. To help it stick in my head, I'm creating my own library in Google Docs to reference while working on projects (if needed)
+**Thoughts** This stretch of material is all learning and no pracicing right now. To help it stick in my head, I'm creating my own library in Google Docs to reference while working on projects (if needed). DONE with HTML portion of the course!!!!!!
 
-**Link(s) to work**:  N/A
+**Link(s) to work**:  <a href="https://codepen.io/Arowynn/pen/BdeOEw" target="_blank">Form Assignment</a>
+
+
+
 
 <!--
 ### Day : , 2017
