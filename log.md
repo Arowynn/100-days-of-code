@@ -162,12 +162,20 @@
 
 **Link(s) to work**: <a href="https://codepen.io/Arowynn/full/brmLpB/" target="_blank">Pokemon Table Assignment</a>
 
+### Day 19: September 5, 2017
 
-### Day 19: September 6, 2017
+**Today's Progress**: Lectures 29-32, Forms, Inputs, Form Tags, Labels
 
-**Today's Progress**: Lectures 29-37, Forms, Inputs, Form Tags, Labels; Create a form assignment
+**Thoughts** This stretch of material is all learning and no pracicing right now. To help it stick in my head, I'm creating my own library in Google Docs to reference while working on projects (if needed).
 
-**Thoughts** This stretch of material is all learning and no pracicing right now. To help it stick in my head, I'm creating my own library in Google Docs to reference while working on projects (if needed). DONE with HTML portion of the course!!!!!!
+**Link(s) to work**: N/A
+
+
+### Day 20: September 6, 2017
+
+**Today's Progress**: Lectures 33-37, Create a form assignment
+
+**Thoughts** I felt like I was doing all the right steps and my code even matched up with the solution to the assignment, but the form was not behaving how it should. I rearranged the order of the inline attributes and it finally was resolved. This was a little frustrating since I thought I was doing it the right way / the way I was taught. DONE with HTML portion of the course!!!!!!
 
 **Link(s) to work**:  <a href="https://codepen.io/Arowynn/pen/BdeOEw" target="_blank">Form Assignment</a>
 
