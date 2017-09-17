@@ -180,6 +180,32 @@
 **Link(s) to work**:  <a href="https://codepen.io/Arowynn/pen/BdeOEw" target="_blank">Form Assignment</a>
 
 
+### Day 21: September 11, 2017
+
+**Today's Progress**: Lectures 38-40, CSS Intro
+
+**Thoughts** I already have a good understanding of CSS so this was just practice. I'm working on my resume and portfolio pieces for a potential job opportunity as a Junior Web Developer. I'm really excited.
+
+**Link(s) to work**:  N/A
+
+
+### Day 22: September 15, 2017
+
+**Today's Progress**: Debug Tribute page
+
+**Thoughts** I'm working on cleaning up code. I'm finding there are easier ways to write something with less lines than the way that I originally wrote it. I forked the project and am editing the forked version. I might keep the original the way it is, just to show an example of what I did in the beginning.
+
+**Link(s) to work**:  <a href="https://codepen.io/Arowynn/pen/GvoWNa" target="_blank"> Selena Tribute Page </a>
+
+
+
+### Day 23: September 16, 2017
+
+**Today's Progress**: Lectures 66-70, 72-74, Bootstrap basics, forms and inputs, grid system
+
+**Thoughts** This is where I need the most work done on my tribute page so I skipped ahead in the lectures to study this for now. When I originally posted my tribute page I had a lot of encouragement and support .... not so much constructive critisism. Which I thought I would get more of. Like "You could change this line to something else"  or  "I see you have a line that's unnecessary" but that never happened. I don't think people looked at my actual code, haha. I'm seeing some HUGE flaws now that I have jumped into Bootstrap. Why didn't anyone tell me the code was really not that great? haha - I suppose they wanted to be nice. 
+
+**Link(s) to work**:  <a href="https://codepen.io/Arowynn/pen/NaGjYW" target="_blank"> Selena Tribute Page 2 (forked)</a>
 
 
 <!--
