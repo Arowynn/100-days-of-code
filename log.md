@@ -212,7 +212,7 @@
 
 **Today's Progress**: Debug Tribute page
 
-**Thoughts** FINALLY! My tribute page is cleaned up and is now correctly using Bootstrap to it's fullest potential! Well, to the fullest that I can comprehend at this point in time, haha. RESUME AND PORTFOLIO is also ready!!!
+**Thoughts** FINALLY! My tribute page is cleaned up and is now correctly using Bootstrap to it's fullest potential! Well, to the fullest that I can comprehend at this point in time, haha. RESUME AND PORTFOLIO are also ready!!!
 
 **Link(s) to work**: <a href="https://codepen.io/Arowynn/pen/NaGjYW" target="_blank"> Selena Tribute Page  2 (forked)</a>
 
