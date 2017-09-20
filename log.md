@@ -217,6 +217,15 @@
 **Link(s) to work**: <a href="https://codepen.io/Arowynn/pen/NaGjYW" target="_blank"> Selena Tribute Page  2 (forked)</a>
 
 
+
+### Day 25: September 19, 2017
+
+**Today's Progress**: Lecture 41-44
+
+**Thoughts** CSS Colors, Background / border colors, CSS Selectors
+
+**Link(s) to work**:  N/A
+
 <!--
 ### Day : , 2017
 
