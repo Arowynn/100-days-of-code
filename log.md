@@ -184,7 +184,7 @@
 
 **Today's Progress**: Lectures 38-40, CSS Intro
 
-**Thoughts** I already have a good understanding of CSS so this was just practice. I'm working on my resume and portfolio pieces for a potential job opportunity as a Junior Web Developer. I'm really excited.
+**Thoughts** I already have a good understanding of CSS so this was just practice. I'm working on my resume and portfolio pieces. I'm really excited.
 
 **Link(s) to work**:  N/A
 
@@ -203,7 +203,7 @@
 
 **Today's Progress**: Lectures 66-70, 72-74, Bootstrap basics, forms and inputs, grid system
 
-**Thoughts** This is where I need the most work done on my tribute page so I skipped ahead in the lectures to study this for now. When I originally posted my tribute page I had a lot of encouragement and support .... not so much constructive critisism. Which I thought I would get more of. Like "You could change this line to something else"  or  "I see you have a line that's unnecessary" but that never happened. I don't think people looked at my actual code, haha. I'm seeing some HUGE flaws now that I have jumped into Bootstrap. Why didn't anyone tell me the code was really not that great? haha - I suppose they wanted to be nice. 
+**Thoughts** This is where I need the most work done on my tribute page so I skipped ahead in the lectures to study this for now. When I originally posted my tribute page I had a lot of encouragement and support .... not so much constructive critisism. Which I thought I would get more of. For example: "You could change this line to something else"  or  "I see you have a line that's unnecessary" but that never happened. I don't think people looked at my actual code. I'm seeing some HUGE flaws now that I have jumped into Bootstrap. Why didn't anyone tell me the code was just ok? - I suppose they wanted to be nice. 
 
 **Link(s) to work**:  <a href="https://codepen.io/Arowynn/pen/NaGjYW" target="_blank"> Selena Tribute Page 2 (forked)</a>
 
@@ -212,7 +212,7 @@
 
 **Today's Progress**: Debug Tribute page
 
-**Thoughts** FINALLY! My tribute page is cleaned up and is now correctly using Bootstrap to it's fullest potential! Well, to the fullest that I can comprehend at this point in time, haha. RESUME AND PORTFOLIO are also ready!!!
+**Thoughts** FINALLY! My tribute page is cleaned up and is now correctly using Bootstrap to it's fullest potential! Well, to the fullest that I can comprehend at this point in time. RESUME AND PORTFOLIO are also ready!!!
 
 **Link(s) to work**: <a href="https://codepen.io/Arowynn/pen/NaGjYW" target="_blank"> Selena Tribute Page  2 (forked)</a>
 
@@ -225,6 +225,15 @@
 **Thoughts** CSS Colors, Background / border colors, CSS Selectors
 
 **Link(s) to work**:  N/A
+
+
+### Day 26: October 3, 2017
+
+**Today's Progress**: Lecture 45-46, Chrome Inspector / Advanced CSS selectors
+
+**Thoughts** Many changes in the last few weeks. Time to get back to it! Need to make up for lost ground.
+
+**Link(s) to work**: N/A
 
 <!--
 ### Day : , 2017
